@@ -32,3 +32,5 @@ jar -cvfm dist/ArrayVisualizer.jar manifest.mf -C target/ ./
 java -jar dist/ArrayVisualizer.jar
 ```
 =======
+### how to open 
+if you see .jar use java to open it
