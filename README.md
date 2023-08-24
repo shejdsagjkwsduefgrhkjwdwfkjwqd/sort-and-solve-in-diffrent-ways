@@ -17,7 +17,7 @@ it does do some cool sorting
 [Variable Width TriMesh](https://www.youtube.com/watch?v=0tr6AtLu4pg)
 
 [Color Circle](https://www.youtube.com/watch?v=sVYtGyPiGik)
-
+these videos are not by me
 # How to use
 
 ### Build 
