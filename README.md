@@ -1,6 +1,6 @@
 # ArrayVisualizer
 Sorting Visualizer/Audiolizer
-
+it does do some cool sorting
 ## Videos
 [Vertical Pyramid](https://www.youtube.com/watch?v=QOYcpGnHH0g)
 
